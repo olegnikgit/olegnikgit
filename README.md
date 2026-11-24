@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="PixLabs – Computer Vision and AI R&D">
+</p>
+
 # Olegs Nikisins
 ### PhD in Computer Vision | Deep Learning · 3D Vision · Biometrics · Robotics · Applied AI
 
